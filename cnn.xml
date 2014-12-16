@@ -1,0 +1,818 @@
+<add>
+	<doc>
+		<field name="id">0</field>
+		<field name="url">http://www.youtube.com/watch?v=itJu6rHWznk</field>
+		<field name="weight">20130328</field>
+		<field name="title">cnn student news - 3/28/13</field>
+		<field name="popularity">3112</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">1</field>
+		<field name="url">http://www.youtube.com/watch?v=ROV7zDRMcrs</field>
+		<field name="weight">20130108</field>
+		<field name="title">cnn student news - 01/08/13</field>
+		<field name="popularity">6834</field>
+		<field name="description">today's program goes global, explains some duties of congress, marks a mardi gras mosaic, and shows how young christians are working against human trafficking.</field>
+	</doc>
+	<doc>
+		<field name="id">2</field>
+		<field name="url">http://www.youtube.com/watch?v=awzvtw8jPQE</field>
+		<field name="weight">20130319</field>
+		<field name="title">cnn student news - 3/19/13</field>
+		<field name="popularity">3938</field>
+		<field name="description">in tuesday's show, we examine the impact of the iraq war on one family, and we consider the potential ripple effects of a financial crisis in cyprus.</field>
+	</doc>
+	<doc>
+		<field name="id">3</field>
+		<field name="url">http://www.youtube.com/watch?v=Dscwf3ZpUiM</field>
+		<field name="weight">20130305</field>
+		<field name="title">cnn student news - 3/5/13</field>
+		<field name="popularity">4303</field>
+		<field name="description">kenyans use social media to monitor an election, researchers declare a 2-year-old "functionally cured" of hiv, and a grocer aims to sell imperfect produce.</field>
+	</doc>
+	<doc>
+		<field name="id">4</field>
+		<field name="url">http://www.youtube.com/watch?v=Ai9Rox1VoNE</field>
+		<field name="weight">20121210</field>
+		<field name="title">cnn student news - 12/10/12</field>
+		<field name="popularity">11358</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">5</field>
+		<field name="url">http://www.youtube.com/watch?v=GjYrSNR7PwM</field>
+		<field name="weight">20130212</field>
+		<field name="title">cnn student news - 2/12/13</field>
+		<field name="popularity">19263</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">6</field>
+		<field name="url">http://www.youtube.com/watch?v=ygUB7SqcpkM</field>
+		<field name="weight">20130104</field>
+		<field name="title">cnn student news - 1/4/13</field>
+		<field name="popularity">9078</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">7</field>
+		<field name="url">http://www.youtube.com/watch?v=alEQN6GX2-Q</field>
+		<field name="weight">20130215</field>
+		<field name="title">cnn student news - 2/15/13</field>
+		<field name="popularity">11172</field>
+		<field name="description">friday's edition of cnn student news covers everything from a damaged cruise ship to an asteroid passing by earth and the origin of presidents' day.</field>
+	</doc>
+	<doc>
+		<field name="id">8</field>
+		<field name="url">http://www.youtube.com/watch?v=bEeb9KL-cfM</field>
+		<field name="weight">20121112</field>
+		<field name="title">cnn student news - 11/12/12</field>
+		<field name="popularity">8806</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">9</field>
+		<field name="url">http://www.youtube.com/watch?v=4TSQb5pTG_g</field>
+		<field name="weight">20121217</field>
+		<field name="title">cnn student news - 12/17/12</field>
+		<field name="popularity">17145</field>
+		<field name="description">monday's program focuses exclusively on the recent shooting at a connecticut elementary school, including tributes to the victims and reaction to the attack.</field>
+	</doc>
+	<doc>
+		<field name="id">10</field>
+		<field name="url">http://www.youtube.com/watch?v=0afyZ4K6VtY</field>
+		<field name="weight">20130306</field>
+		<field name="title">cnn student news - 3/6/13</field>
+		<field name="popularity">5719</field>
+		<field name="description">venezuelan president hugo chavez dies, the dow jones average hits a new high, and north korea threatens to break the truce that ended the korean war.</field>
+	</doc>
+	<doc>
+		<field name="id">11</field>
+		<field name="url">http://www.youtube.com/watch?v=tniZ4D7hfEs</field>
+		<field name="weight">20121005</field>
+		<field name="title">cnn student news - 10/5/12</field>
+		<field name="popularity">15492</field>
+		<field name="description">syria's civil war reaches across a border, we examine reaction to this week's u.s. presidential debate, and a teen uses rapping to overcome a severe stutter.</field>
+	</doc>
+	<doc>
+		<field name="id">12</field>
+		<field name="url">http://www.youtube.com/watch?v=K-aBkSeDfKE</field>
+		<field name="weight">20130226</field>
+		<field name="title">cnn student news - 2/26/13</field>
+		<field name="popularity">4707</field>
+		<field name="description">secretary of state kerry makes his inaugural overseas trip, a blizzard blankets parts of texas and oklahoma, and spring ushers in pollen and spring training.</field>
+	</doc>
+	<doc>
+		<field name="id">13</field>
+		<field name="url">http://www.youtube.com/watch?v=W2xHgTxYR0U</field>
+		<field name="weight">20121108</field>
+		<field name="title">cnn student news - 11/8/12</field>
+		<field name="popularity">5110</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">14</field>
+		<field name="url">http://www.youtube.com/watch?v=MftjpI0u7JE</field>
+		<field name="weight">20130329</field>
+		<field name="title">cnn student news - 3/29/13</field>
+		<field name="popularity">7029</field>
+		<field name="description">in friday's program, we discuss the debate over the issue of guns in america, we share some spring break travel tips, and we step inside a live video game.</field>
+	</doc>
+	<doc>
+		<field name="id">15</field>
+		<field name="url">http://www.youtube.com/watch?v=41OrFVdrxQo</field>
+		<field name="weight">20121101</field>
+		<field name="title">cnn student news - 11/1/12</field>
+		<field name="popularity">9438</field>
+		<field name="description">today, we examine sandy's aftermath and whether it could impact the u.s. election. we also meet german-born soccer players who take the field for the u.s.</field>
+	</doc>
+	<doc>
+		<field name="id">16</field>
+		<field name="url">http://www.youtube.com/watch?v=mJSTaeK6mYc</field>
+		<field name="weight">20120313</field>
+		<field name="title">cnn student news - 3/13/12</field>
+		<field name="popularity">2141</field>
+		<field name="description">president obama visits capitol hill, the papal conclave begins, the falkland islands hold a referendum, and the iditarod heads to the finish line.</field>
+	</doc>
+	<doc>
+		<field name="id">17</field>
+		<field name="url">http://www.youtube.com/watch?v=g422T397zsI</field>
+		<field name="weight">20121119</field>
+		<field name="title">cnn student news - 11/19/12</field>
+		<field name="popularity">12450</field>
+		<field name="description">violence rages between israel and hamas, president obama makes a historic trip to asia, and we explore some truths and rumors about cold and flu season.</field>
+	</doc>
+	<doc>
+		<field name="id">18</field>
+		<field name="url">http://www.youtube.com/watch?v=O03K85ixVzM</field>
+		<field name="weight">20130227</field>
+		<field name="title">cnn student news - 2/27/13</field>
+		<field name="popularity">4715</field>
+		<field name="description">on wednesday, we explore how filibusters work, we break down what goes into gas prices, and we consider how a musician can make money off a viral video.</field>
+	</doc>
+	<doc>
+		<field name="id">19</field>
+		<field name="url">http://www.youtube.com/watch?v=sQ9GjzIvc5E</field>
+		<field name="weight">20130307</field>
+		<field name="title">cnn student news - 3/7/13</field>
+		<field name="popularity">4950</field>
+		<field name="description">a new winter storm blankets parts of the u.s., hugo chavez leaves a controversial legacy, and we break down some numbers on a new hybrid car.</field>
+	</doc>
+	<doc>
+		<field name="id">20</field>
+		<field name="url">http://www.youtube.com/watch?v=x9Ygxz08Lis</field>
+		<field name="weight">20130318</field>
+		<field name="title">cnn student news - 3/18/13</field>
+		<field name="popularity">4733</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">21</field>
+		<field name="url">http://www.youtube.com/watch?v=IrNl6T676EA</field>
+		<field name="weight">20130315</field>
+		<field name="title">cnn student news - 3/15/13</field>
+		<field name="popularity">6709</field>
+		<field name="description">today, we report on the new leaders of china and the catholic church, and we find out what happens to items that are confiscated by airport security.</field>
+	</doc>
+	<doc>
+		<field name="id">22</field>
+		<field name="url">http://www.youtube.com/watch?v=41OrFVdrxQo</field>
+		<field name="weight">20121101</field>
+		<field name="title">cnn student news - 11/1/12</field>
+		<field name="popularity">9438</field>
+		<field name="description">today, we examine sandy's aftermath and whether it could impact the u.s. election. we also meet german-born soccer players who take the field for the u.s.</field>
+	</doc>
+	<doc>
+		<field name="id">23</field>
+		<field name="url">http://www.youtube.com/watch?v=VkkFM3k_JXw</field>
+		<field name="weight">20130325</field>
+		<field name="title">cnn student news - 3/25/13</field>
+		<field name="popularity">3232</field>
+		<field name="description">today, we explore some observances of spring, including palm sunday and passover, and we consider the likelihood of an asteroid threatening earth.</field>
+	</doc>
+	<doc>
+		<field name="id">24</field>
+		<field name="url">http://www.youtube.com/watch?v=UfBF6Y0_T9k</field>
+		<field name="weight">20130214</field>
+		<field name="title">cnn student news - 2/14/13</field>
+		<field name="popularity">3166</field>
+		<field name="description">today, we report on the employment situation for the u.s. middle class, we explore the traditions of lent, and we break down the numbers on valentine's day.</field>
+	</doc>
+	<doc>
+		<field name="id">25</field>
+		<field name="url">http://www.youtube.com/watch?v=ZJP4mGxnrEM</field>
+		<field name="weight">20130114</field>
+		<field name="title">cnn student news - 1/14/13</field>
+		<field name="popularity">26245</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">26</field>
+		<field name="url">http://www.youtube.com/watch?v=g422T397zsI</field>
+		<field name="weight">20121119</field>
+		<field name="title">cnn student news - 11/19/12</field>
+		<field name="popularity">12450</field>
+		<field name="description">violence rages between israel and hamas, president obama makes a historic trip to asia, and we explore some truths and rumors about cold and flu season.</field>
+	</doc>
+	<doc>
+		<field name="id">27</field>
+		<field name="url">http://www.youtube.com/watch?v=npoo9Ys114g</field>
+		<field name="weight">20130320</field>
+		<field name="title">cnn student news - 3/20/13</field>
+		<field name="popularity">4221</field>
+		<field name="description">today, we report on president obama's trip to israel, we consider the challenges of protecting a pope, and we explain the significance of the vernal equinox.</field>
+	</doc>
+	<doc>
+		<field name="id">28</field>
+		<field name="url">http://www.youtube.com/watch?v=zZYhyQVUHk4</field>
+		<field name="weight">2013409</field>
+		<field name="title">april 9, 2013 - cnn student news with subtitles</field>
+		<field name="popularity">930</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">29</field>
+		<field name="url">http://www.youtube.com/watch?v=WIONTiOTJbw</field>
+		<field name="weight">20130122</field>
+		<field name="title">cnn student news - 1/22/13</field>
+		<field name="popularity">24297</field>
+		<field name="description">cnn student news recaps the inauguration, as president obama begins his second term. we also report on martin luther king jr. day in tuesday's program.</field>
+	</doc>
+	<doc>
+		<field name="id">30</field>
+		<field name="url">http://www.youtube.com/watch?v=i8wU_2cx4yo</field>
+		<field name="weight">20130123</field>
+		<field name="title">cnn student news - 1/23/13</field>
+		<field name="popularity">3791</field>
+		<field name="description">on wednesday, we report on president obama's second-term agenda, we explore morality in primates, and we consider how the global economy is like a ski slope.</field>
+	</doc>
+	<doc>
+		<field name="id">31</field>
+		<field name="url">http://www.youtube.com/watch?v=ePKaabXAbU4</field>
+		<field name="weight">20121017</field>
+		<field name="title">cnn student news - 10/17/12</field>
+		<field name="popularity">8867</field>
+		<field name="description">the second u.s. presidential debate, the first man to break the sound barrier, and the world's best-selling toy all headline wednesday's program.</field>
+	</doc>
+	<doc>
+		<field name="id">32</field>
+		<field name="url">http://www.youtube.com/watch?v=04HrFslEc6c</field>
+		<field name="weight">20120921</field>
+		<field name="title">cnn student news - 9/21/12</field>
+		<field name="popularity">16163</field>
+		<field name="description">military exercises in the middle east, the israeli-palestinian conflict, and the history of hispanic heritage month all headline friday's program.</field>
+	</doc>
+	<doc>
+		<field name="id">33</field>
+		<field name="url">http://www.youtube.com/watch?v=9hup2mYMIqA</field>
+		<field name="weight">20121015</field>
+		<field name="title">cnn student news - 10/15/12</field>
+		<field name="popularity">12528</field>
+		<field name="description">today, we report on rallies in pakistan, the 2012 nobel peace prize, a space shuttle's road trip, and a record-shattering skydive.</field>
+	</doc>
+	<doc>
+		<field name="id">34</field>
+		<field name="url">http://www.youtube.com/watch?v=dZDIiHveVLw</field>
+		<field name="weight">20130314</field>
+		<field name="title">cnn student news - 3/14/13</field>
+		<field name="popularity">15189</field>
+		<field name="description">catholic cardinals choose a new pope, syrian refugees carry reminders of home, doctors study sharks' mouths, and pi day brings irrational exuberance.</field>
+	</doc>
+	<doc>
+		<field name="id">35</field>
+		<field name="url">http://www.youtube.com/watch?v=auFMYUKS6O0</field>
+		<field name="weight">20130129</field>
+		<field name="title">cnn student news - 1/29/13</field>
+		<field name="popularity">4615</field>
+		<field name="description">today, we share some tips on preparing for an emergency, we examine a connection between education and earnings, and we consider two tales of showing character.</field>
+	</doc>
+	<doc>
+		<field name="id">36</field>
+		<field name="url">http://www.youtube.com/watch?v=WlFMYtuyxtM</field>
+		<field name="weight">20121031</field>
+		<field name="title">cnn student news - 10/31/12</field>
+		<field name="popularity">21199</field>
+		<field name="description">sandy leaves a path of devastation across the eastern u.s., and a japanese baseball team gets creative in its attempts to drive up attendance.</field>
+	</doc>
+	<doc>
+		<field name="id">37</field>
+		<field name="url">http://www.youtube.com/watch?v=a8HX05If398</field>
+		<field name="weight">20130311</field>
+		<field name="title">cnn student news - 3/11/13</field>
+		<field name="popularity">5714</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">38</field>
+		<field name="url">http://www.youtube.com/watch?v=Emx7DAqdqeM</field>
+		<field name="weight">20121102</field>
+		<field name="title">cnn student news - 11/2/12</field>
+		<field name="popularity">4694</field>
+		<field name="description">today, we examine the struggle for normalcy after sandy, we consider the evolution of political tv ads, and we mark a milestone for michelangelo's masterpiece.</field>
+	</doc>
+	<doc>
+		<field name="id">39</field>
+		<field name="url">http://www.youtube.com/watch?v=SEjxma1E_VE</field>
+		<field name="weight">20121018</field>
+		<field name="title">cnn student news - 10/18/12</field>
+		<field name="popularity">7151</field>
+		<field name="description">today, we report on the fight for education rights in pakistan, a newly-discovered planet with four suns, and a bicycle made mostly out of cardboard.</field>
+	</doc>
+	<doc>
+		<field name="id">40</field>
+		<field name="url">http://www.youtube.com/watch?v=RN_AOVWirzo</field>
+		<field name="weight"></field>
+		<field name="title">cnn student news special: black in america</field>
+		<field name="popularity">102864</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">41</field>
+		<field name="url">http://www.youtube.com/watch?v=d3P7cgSIgJY</field>
+		<field name="weight">20121113</field>
+		<field name="title">cnn student news - 11/13/12</field>
+		<field name="popularity">4595</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">42</field>
+		<field name="url">http://www.youtube.com/watch?v=0wuI5rncNZM</field>
+		<field name="weight">20121219</field>
+		<field name="title">cnn student news - 12/19/12</field>
+		<field name="popularity">5954</field>
+		<field name="description">specially-trained dogs help the healing process in newtown, a nasa moon mission reaches its conclusion, and we explore the mayan calendar that ends this week.</field>
+	</doc>
+	<doc>
+		<field name="id">43</field>
+		<field name="url">http://www.youtube.com/watch?v=Sfqr0NoQ4uY</field>
+		<field name="weight">20121206</field>
+		<field name="title">cnn student news - 12/6/12</field>
+		<field name="popularity">2001</field>
+		<field name="description">today's show includes reports on youth employment, a program that would extend the school day, the science of camouflage, and rules of british succession.</field>
+	</doc>
+	<doc>
+		<field name="id">44</field>
+		<field name="url">http://www.youtube.com/watch?v=BvsPn5Ce_2c</field>
+		<field name="weight">2011812</field>
+		<field name="title">cnn student news  - september 12 - 2011 (eng sub)</field>
+		<field name="popularity">13265</field>
+		<field name="description"></field>
+	</doc>
+	<doc>
+		<field name="id">45</field>
+		<field name="url">http://www.youtube.com/watch?v=9kYk57vvOxU</field>
+		<field name="weight">20120913</field>
+		<field name="title">cnn student news - 9/13/12</field>
+		<field name="popularity">29258</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">46</field>
+		<field name="url">http://www.youtube.com/watch?v=W_XXCpmhITc</field>
+		<field name="weight">20121127</field>
+		<field name="title">cnn student news - 11/27/12</field>
+		<field name="popularity">7094</field>
+		<field name="description">specific needs are outlined by storm victims, a young racer revs up work against distracted driving, and a record is broken on the college basketball court.</field>
+	</doc>
+	<doc>
+		<field name="id">47</field>
+		<field name="url">http://www.youtube.com/watch?v=R2do7mLU-Bo</field>
+		<field name="weight">20121220</field>
+		<field name="title">cnn student news - 12/20/12</field>
+		<field name="popularity">3517</field>
+		<field name="description">today, we examine u.s. security failures in benghazi, we introduce south korea's next president, and we hear some strategies for coping with tragedy.</field>
+	</doc>
+	<doc>
+		<field name="id">48</field>
+		<field name="url">http://www.youtube.com/watch?v=8i-ICQbyM6I</field>
+		<field name="weight">2013408</field>
+		<field name="title">cnn student news - april 8, 2013 (english sub + vocabulary)</field>
+		<field name="popularity">584</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">49</field>
+		<field name="url">http://www.youtube.com/watch?v=hAsRs1NDx-E</field>
+		<field name="weight">20130111</field>
+		<field name="title">cnn student news - 1/11/13</field>
+		<field name="popularity">6970</field>
+		<field name="description">health and science dominate friday's show, as we examine the potential impact of head trauma, germy public places, and efforts to track a great white shark.</field>
+	</doc>
+	<doc>
+		<field name="id">50</field>
+		<field name="url">http://www.youtube.com/watch?v=7a-pD0XupYQ</field>
+		<field name="weight">20121105</field>
+		<field name="title">cnn student news - 11/5/12</field>
+		<field name="popularity">10362</field>
+		<field name="description">u.s. presidential candidates make a final blitz of battleground states, and victims face a variety of challenges one week after sandy hit the northeastern u.s.</field>
+	</doc>
+	<doc>
+		<field name="id">51</field>
+		<field name="url">http://www.youtube.com/watch?v=j9N9KGWasDg</field>
+		<field name="weight">20130219</field>
+		<field name="title">cnn student news - 2/19/13</field>
+		<field name="popularity">6161</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">52</field>
+		<field name="url">http://www.youtube.com/watch?v=pzsAtFbfjVc</field>
+		<field name="weight">20121025</field>
+		<field name="title">cnn student news - 10/25/12</field>
+		<field name="popularity">3470</field>
+		<field name="description">in today's program, we report on a possible cease-fire in syria, some third-party u.s. presidential candidates, and a teenager who's building her first car.</field>
+	</doc>
+	<doc>
+		<field name="id">53</field>
+		<field name="url">http://www.youtube.com/watch?v=psXDUilIdqU</field>
+		<field name="weight">20130206</field>
+		<field name="title">cnn student news - 2/6/13</field>
+		<field name="popularity">6085</field>
+		<field name="description">u.s. gas prices are on the rise, some israeli soccer fans root against players on their favorite team, and an asteroid is on a path to pass near the earth.</field>
+	</doc>
+	<doc>
+		<field name="id">54</field>
+		<field name="url">http://www.youtube.com/watch?v=v-OKw3tfYQM</field>
+		<field name="weight">20130125</field>
+		<field name="title">cnn student news - 1/25/13</field>
+		<field name="popularity">3806</field>
+		<field name="description">in friday's show: north korea's nuclear program, u.s. women in combat, frigid winter weather, tips for taking tests, and students' thoughts on violent media.</field>
+	</doc>
+	<doc>
+		<field name="id">55</field>
+		<field name="url">http://www.youtube.com/watch?v=4jNVbRsPG10</field>
+		<field name="weight">20121107</field>
+		<field name="title">cnn student news - 11/7/12</field>
+		<field name="popularity">5587</field>
+		<field name="description">today's program is all about election day, including presidential, congressional and gubernatorial results. plus, a first-time voter documents her experience.</field>
+	</doc>
+	<doc>
+		<field name="id">56</field>
+		<field name="url">http://www.youtube.com/watch?v=tK_ZyFcNT00</field>
+		<field name="weight">20130301</field>
+		<field name="title">cnn student news - 3/1/13</field>
+		<field name="popularity">6477</field>
+		<field name="description">federal spending cuts threaten some americans but not others, teen driving safety hits a bump in the road, and we begin our coverage of women's history month.</field>
+	</doc>
+	<doc>
+		<field name="id">57</field>
+		<field name="url">http://www.youtube.com/watch?v=Ipw4K0m7Ky0</field>
+		<field name="weight">20130109</field>
+		<field name="title">cnn student news - 01/09/13</field>
+		<field name="popularity">3419</field>
+		<field name="description">in wednesday's program, we examine a u.s. flu outbreak, we break down the diversity of the 113th congress, and we explore some new trends in technology.</field>
+	</doc>
+	<doc>
+		<field name="id">58</field>
+		<field name="url">http://www.youtube.com/watch?v=deteN-_zCUM</field>
+		<field name="weight">20130322</field>
+		<field name="title">cnn student news - 3/22/13</field>
+		<field name="popularity">1188</field>
+		<field name="description">today, we examine the israeli-palestinian conflict and tension on the korean peninsula, and we hear about the benefits of chess for some philadelphia students.</field>
+	</doc>
+	<doc>
+		<field name="id">59</field>
+		<field name="url">http://www.youtube.com/watch?v=VggGFUwj2gk</field>
+		<field name="weight">2013415</field>
+		<field name="title">april 15, 2013 - cnn student news with subtitles</field>
+		<field name="popularity">705</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">60</field>
+		<field name="url">http://www.youtube.com/watch?v=rTol-1lUbpw</field>
+		<field name="weight">20130130</field>
+		<field name="title">cnn student news - 1/30/13</field>
+		<field name="popularity">4437</field>
+		<field name="description">president obama weighs in on immigration reform, a syrian teenager talks about the personal impact of war, and this year's super bowl is a family affair.</field>
+	</doc>
+	<doc>
+		<field name="id">61</field>
+		<field name="url">http://www.youtube.com/watch?v=pn5w5o4Mi5Y</field>
+		<field name="weight">2013405</field>
+		<field name="title">april 5, 2013 - cnn student news with subtitles</field>
+		<field name="popularity">903</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">62</field>
+		<field name="url">http://www.youtube.com/watch?v=85BER5ssDxc</field>
+		<field name="weight">20130312</field>
+		<field name="title">cnn student news - 3/12/13</field>
+		<field name="popularity">13786</field>
+		<field name="description">today, we visit the korean peninsula and japan, we examine the impact of debris on land and at sea, and we hear how mummies can aid modern scientific research.</field>
+	</doc>
+	<doc>
+		<field name="id">63</field>
+		<field name="url">http://www.youtube.com/watch?v=2_UE3GG8sk8</field>
+		<field name="weight">20120504</field>
+		<field name="title">cnn student news - 5/4/12</field>
+		<field name="popularity">2215</field>
+		<field name="description">today, we report on documents from osama bin laden, the effects of concussions, and the opportunities a ballet school offers to some impoverished filipinos.</field>
+	</doc>
+	<doc>
+		<field name="id">64</field>
+		<field name="url">http://www.youtube.com/watch?v=dM6ODyJFZIg</field>
+		<field name="weight">20130327</field>
+		<field name="title">cnn student news - 3/27/13</field>
+		<field name="popularity">15000</field>
+		<field name="description">this wednesday: north korea's new threats and the questions they bring up, an iraqi boy's remarkable recovery, and a cinderella story of the ncaa.</field>
+	</doc>
+	<doc>
+		<field name="id">65</field>
+		<field name="url">http://www.youtube.com/watch?v=xVjYuaOs7uU</field>
+		<field name="weight">20130211</field>
+		<field name="title">cnn student news - 2/11/13</field>
+		<field name="popularity">7708</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">66</field>
+		<field name="url">http://www.youtube.com/watch?v=bl3cFVm5N38</field>
+		<field name="weight">20130107</field>
+		<field name="title">cnn student news - 1/7/13</field>
+		<field name="popularity">6896</field>
+		<field name="description">in today's show: federal relief for storm victims, congressional debate concerning gun laws, new fda proposals, and a woman's service on a navy submarine.</field>
+	</doc>
+	<doc>
+		<field name="id">67</field>
+		<field name="url">http://www.youtube.com/watch?v=z5uZbzqL-j4</field>
+		<field name="weight">20120320</field>
+		<field name="title">cnn student news - 3/20/12</field>
+		<field name="popularity">9198</field>
+		<field name="description">gas prices fuel u.s. political fire, brazil aims to balance economic and environmental concerns, and one woman offers a better life to some nepalese children.</field>
+	</doc>
+	<doc>
+		<field name="id">68</field>
+		<field name="url">http://www.youtube.com/watch?v=OI1jzCtWMXs</field>
+		<field name="weight">20130118</field>
+		<field name="title">cnn student news - 1/18/13</field>
+		<field name="popularity">2974</field>
+		<field name="description">friday's show is all about presidential inaugurations, including some traditions associated with these events and the security surrounding monday's ceremony.</field>
+	</doc>
+	<doc>
+		<field name="id">69</field>
+		<field name="url">http://www.youtube.com/watch?v=CTWz852DXKk</field>
+		<field name="weight">20130128</field>
+		<field name="title">cnn student news - 1/28/13</field>
+		<field name="popularity">8396</field>
+		<field name="description">officials investigate a nightclub fire in brazil, prince harry balances his royal and military commitments, and digital sales threaten physical media.</field>
+	</doc>
+	<doc>
+		<field name="id">70</field>
+		<field name="url">http://www.youtube.com/watch?v=FE_w_NMUqhA</field>
+		<field name="weight">2013419</field>
+		<field name="title">cnn student news - april 19, 2013 (english sub)</field>
+		<field name="popularity">263</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">71</field>
+		<field name="url">http://www.youtube.com/watch?v=YlKRdJvloj0</field>
+		<field name="weight">20130117</field>
+		<field name="title">cnn student news - 1/17/13</field>
+		<field name="popularity">2168</field>
+		<field name="description">president obama announces proposals to reduce gun violence, coca-cola addresses the issue of obesity, and researchers work on a universal flu vaccine.</field>
+	</doc>
+	<doc>
+		<field name="id">72</field>
+		<field name="url">http://www.youtube.com/watch?v=FVZx3ICJXho</field>
+		<field name="weight">20130308</field>
+		<field name="title">cnn student news - 3/8/13</field>
+		<field name="popularity">5598</field>
+		<field name="description">the u.n. votes for new sanctions on north korea, a u.s. senator stages a 13-hour filibuster, and we honor the accomplishments of women in stem fields.</field>
+	</doc>
+	<doc>
+		<field name="id">73</field>
+		<field name="url">http://www.youtube.com/watch?v=edoVZT-_pec</field>
+		<field name="weight">20121218</field>
+		<field name="title">cnn student news - 12/18/12</field>
+		<field name="popularity">5910</field>
+		<field name="description">citizens of newtown, ct discuss ways to prevent violence, turkey receives defense technology from the u.s., and we explore spending and the fiscal cliff.</field>
+	</doc>
+	<doc>
+		<field name="id">74</field>
+		<field name="url">http://www.youtube.com/watch?v=UGP4Gg3fWXw</field>
+		<field name="weight">20121106</field>
+		<field name="title">cnn student news - 11/6/12</field>
+		<field name="popularity">7166</field>
+		<field name="description">election day is here! as americans head to the polls, cnn student news explores the electoral college process and notes some of today's state referendums.</field>
+	</doc>
+	<doc>
+		<field name="id">75</field>
+		<field name="url">http://www.youtube.com/watch?v=JbuVdk3DWWw</field>
+		<field name="weight">2013403</field>
+		<field name="title">april 3, 2013 - cnn student news with subtitles</field>
+		<field name="popularity">379</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">76</field>
+		<field name="url">http://www.youtube.com/watch?v=cYjTznP7qB4</field>
+		<field name="weight">2013412</field>
+		<field name="title">april 12, 2013 - cnn student news with subtitles</field>
+		<field name="popularity">1078</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">77</field>
+		<field name="url">http://www.youtube.com/watch?v=UXkgm8jkxMM</field>
+		<field name="weight">20121207</field>
+		<field name="title">cnn student news - 12/7/12</field>
+		<field name="popularity">9568</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">78</field>
+		<field name="url">http://www.youtube.com/watch?v=cKyNeEC5Vwk</field>
+		<field name="weight">2013416</field>
+		<field name="title">cnn student news - april 16, 2013 (english sub)</field>
+		<field name="popularity">386</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">79</field>
+		<field name="url">http://www.youtube.com/watch?v=zkkRj64Dk-Y</field>
+		<field name="weight">20130304</field>
+		<field name="title">cnn student news - 3/4/13</field>
+		<field name="popularity">2726</field>
+		<field name="description">today, we examine how sinkholes form, we break down a court case involving affirmative action, and we explore some female firsts in the sports world.</field>
+	</doc>
+	<doc>
+		<field name="id">80</field>
+		<field name="url">http://www.youtube.com/watch?v=plZEu46eTn4</field>
+		<field name="weight">2011414</field>
+		<field name="title">cnn student news transcript  april 14  2011   cnn com</field>
+		<field name="popularity">3439</field>
+		<field name="description"></field>
+	</doc>
+	<doc>
+		<field name="id">81</field>
+		<field name="url">http://www.youtube.com/watch?v=sF3Bz3AScqQ</field>
+		<field name="weight">2013410</field>
+		<field name="title">cnn student news - april 10, 2013 (english sub + vocabulary)</field>
+		<field name="popularity">403</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">82</field>
+		<field name="url">http://www.youtube.com/watch?v=JVJ4gp0qokU</field>
+		<field name="weight">20130225</field>
+		<field name="title">cnn student news - 2/25/13</field>
+		<field name="popularity">4590</field>
+		<field name="description">south korea's first female president takes office, some japanese engineers take a unique approach to demolition, and an eruption rains fire on the sun.</field>
+	</doc>
+	<doc>
+		<field name="id">83</field>
+		<field name="url">http://www.youtube.com/watch?v=EI4P3hm-FH4</field>
+		<field name="weight">20130201</field>
+		<field name="title">cnn student news - 2/1/13</field>
+		<field name="popularity">5345</field>
+		<field name="description">a senate confirmation hearing turns tense, a teenager's online petition leads to change, and we explore the history of black history month.</field>
+	</doc>
+	<doc>
+		<field name="id">84</field>
+		<field name="url">http://www.youtube.com/watch?v=HMEgfeESRMM</field>
+		<field name="weight">20121115</field>
+		<field name="title">cnn student news - 11/15/12</field>
+		<field name="popularity">3735</field>
+		<field name="description">today, we report on a presidential news conference, a rise in israeli-palestinian violence, collision-avoidance technology, and an underwater museum.</field>
+	</doc>
+	<doc>
+		<field name="id">85</field>
+		<field name="url">http://www.youtube.com/watch?v=zZJND6ReKus</field>
+		<field name="weight">20121126</field>
+		<field name="title">cnn student news - 11/26/12</field>
+		<field name="popularity">8654</field>
+		<field name="description">this monday, we cover stories ranging from the middle east to the far east, and we explore some unseen dangers facing storm victims.</field>
+	</doc>
+	<doc>
+		<field name="id">86</field>
+		<field name="url">http://www.youtube.com/watch?v=_0-tN-XS1Z8</field>
+		<field name="weight">20121213</field>
+		<field name="title">cnn student news - 12/13/12</field>
+		<field name="popularity">4529</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">87</field>
+		<field name="url">http://www.youtube.com/watch?v=_vZOqyW9yf8</field>
+		<field name="weight">20130321</field>
+		<field name="title">cnn student news - 3/21/13</field>
+		<field name="popularity">1613</field>
+		<field name="description">today, we examine president obama's schedule in the middle east, we honor some famous women in the arts, and we hear how an orchestra turns trash into treasure.</field>
+	</doc>
+	<doc>
+		<field name="id">88</field>
+		<field name="url">http://www.youtube.com/watch?v=cM72ARlqLiM</field>
+		<field name="weight">20130102</field>
+		<field name="title">cnn student news - 1/2/13</field>
+		<field name="popularity">2778</field>
+		<field name="description">in our first show of 2013, we explore a potential fiscal cliff compromise, and we look at some of the new (and unusual) laws taking effect in the new year.</field>
+	</doc>
+	<doc>
+		<field name="id">89</field>
+		<field name="url">http://www.youtube.com/watch?v=l4Ll4WVP-00</field>
+		<field name="weight">20121211</field>
+		<field name="title">cnn student news - 12/11/12</field>
+		<field name="popularity">17082</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">90</field>
+		<field name="url">http://www.youtube.com/watch?v=RFiBkF7mN2U</field>
+		<field name="weight">2013402</field>
+		<field name="title">cnn student news - april 2, 2013 (english sub)</field>
+		<field name="popularity">649</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">91</field>
+		<field name="url">http://www.youtube.com/watch?v=u2--zjCa78o</field>
+		<field name="weight">20121129</field>
+		<field name="title">cnn student news - 11/29/12</field>
+		<field name="popularity">3792</field>
+		<field name="description">the "fiscal cliff" dominates meetings in d.c., a drug war dominates mexican politics, and scientists consider machines' possible future domination of humans.</field>
+	</doc>
+	<doc>
+		<field name="id">92</field>
+		<field name="url">http://www.youtube.com/watch?v=fSvK3tlvYwY</field>
+		<field name="weight">20130228</field>
+		<field name="title">cnn student news - 2/28/13</field>
+		<field name="popularity">2782</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">93</field>
+		<field name="url">http://www.youtube.com/watch?v=h4MLG8XGcic</field>
+		<field name="weight">20120405</field>
+		<field name="title">cnn student news - 4/5/12</field>
+		<field name="popularity">3063</field>
+		<field name="description">today, we report on u.s. presidential nomination standings, disaster recovery in texas, peace efforts in syria, and a private club's membership dilemma.</field>
+	</doc>
+	<doc>
+		<field name="id">94</field>
+		<field name="url">http://www.youtube.com/watch?v=ZYqRjEr5NbU</field>
+		<field name="weight">20130326</field>
+		<field name="title">cnn student news - 3/26/13</field>
+		<field name="popularity">3240</field>
+		<field name="description">tuesday's show takes students from the nation of cyprus to the u.s. supreme court, and from florida's manatees to the tallest mountain in the world.</field>
+	</doc>
+	<doc>
+		<field name="id">95</field>
+		<field name="url">http://www.youtube.com/watch?v=EFyA_pyzIls</field>
+		<field name="weight">20121019</field>
+		<field name="title">cnn student news - 10/19/12</field>
+		<field name="popularity">3744</field>
+		<field name="description">u.s. officials report they've broken up a terror plot, political opinions make waves across social media, and airline passengers help rescue a stranded sailor.</field>
+	</doc>
+	<doc>
+		<field name="id">96</field>
+		<field name="url">http://www.youtube.com/watch?v=qecuDurluDE</field>
+		<field name="weight">20121203</field>
+		<field name="title">cnn student news - 12/3/12</field>
+		<field name="popularity">4186</field>
+		<field name="description">none</field>
+	</doc>
+	<doc>
+		<field name="id">97</field>
+		<field name="url">http://www.youtube.com/watch?v=2PeXmfXB5lE</field>
+		<field name="weight">20120601</field>
+		<field name="title">cnn student news - 6/1/12</field>
+		<field name="popularity">5416</field>
+		<field name="description">today, we explore the groups involved in syria's crisis, a proposal to ban large sugary drinks in nyc, and a one-handed baseball player's personal achievement.</field>
+	</doc>
+	<doc>
+		<field name="id">98</field>
+		<field name="url">http://www.youtube.com/watch?v=ERxXEdYB73o</field>
+		<field name="weight">20120503</field>
+		<field name="title">cnn student news - 5/3/12</field>
+		<field name="popularity">25008</field>
+		<field name="description">after covering headlines from afghanistan and china, we consider the perseverance of a paralyzed football player and a former victim of bullying.</field>
+	</doc>
+	<doc>
+		<field name="id">99</field>
+		<field name="url">http://www.youtube.com/watch?v=p81sNaHokvM</field>
+		<field name="weight">20130205</field>
+		<field name="title">cnn student news - 2/5/13</field>
+		<field name="popularity">3587</field>
+		<field name="description">today, we cover a young activist's road to recovery, a u.s. president's potential influence on the lawmaking process, and the discovery of some royal remains.</field>
+	</doc>
+	<doc>
+		<field name="id">100</field>
+		<field name="url">http://www.youtube.com/watch?v=jLaW1nxuArg</field>
+		<field name="weight">20121030</field>
+		<field name="title">cnn student news - 10/30/12</field>
+		<field name="popularity">16055</field>
+		<field name="description">today, we take a scientific and historic view of a massive storm system, and we examine where the u.s. presidential candidates stand on education.</field>
+	</doc>
+	<doc>
+		<field name="id">101</field>
+		<field name="url">http://www.youtube.com/watch?v=_P6aa3sSKFU</field>
+		<field name="weight">20121016</field>
+		<field name="title">cnn student news - 10/16/12</field>
+		<field name="popularity">5070</field>
+		<field name="description">none</field>
+	</doc>
+</add>
